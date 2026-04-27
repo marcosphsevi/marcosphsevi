@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hola soy Marcos 👋
 
+--
+
+Actualmente cursando el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma.
+
+--
+
+### Lenguajes en los que estoy trabajando:
+
+- Java
+- SQL
+- Html5
+- Css
+- JavaScript
 <!--
 **marcosphsevi/marcosphsevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

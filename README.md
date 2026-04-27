@@ -1,7 +1,5 @@
 ## Hola soy Marcos 👋
 
----
-
 Actualmente cursando el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma.
 
 ---
